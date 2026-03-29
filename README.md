@@ -6,17 +6,19 @@ Soy un desarrollador con base en **DAM**, actualmente potenciando mis habilidade
 ---
 ## 🛠 Mi Stack Tecnológico
 ---
-#BACKEND:
-  *SPRINGBOOT 
-  *JAVA
-  *(SQL,POSTGRESQL,SQL SERVER)/(MONGODB,SQLITE)
-  *DOCKER
-#FRONTEND:
-  *VUE.JS
-  *JAVASCRIPT/TYPESCRIPT
-  *TAILWIND
-#MOVILES:
-  *ANDROID STUDIO 
+##BACKEND:
+* **SPRINGBOOT 
+* **JAVA
+* **(SQL,POSTGRESQL,SQL SERVER)/(MONGODB,SQLITE)
+* **AWS
+* **DOCKER
+##FRONTEND:
+* **VUE.JS
+* **JAVASCRIPT/TYPESCRIPT
+* **TAILWIND(SCSS)
+##MOVILES:
+* **ANDROID STUDIO
+* **FLUTTER
 ---
 ## 🧠 Filosofía de Desarrollo
 Aplico principios que garantizan código de calidad profesional:
