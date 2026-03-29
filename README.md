@@ -1,16 +1,51 @@
-## Hi there 👋
+# ¡Hola! Soy Ayoub BenJaddi 👋
 
-<!--
-**Peluas9000/Peluas9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer Trainee | Spring Boot & Vue.js Enthusiast | AI Integrator
 
-Here are some ideas to get you started:
+Soy un desarrollador con base en **DAM**, actualmente potenciando mis habilidades en el mundo real a través de mis prácticas en **Albeat S.L.** No solo escribo código; busco soluciones que impacten positivamente y me apasiona utilizar la **Inteligencia Artificial** para llevar la productividad y las implementaciones al siguiente nivel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Mi Stack Tecnológico
+---
+-BACKEND:
+  -SPRINGBOOT 
+  -JAVA
+  -(SQL,POSTGRESQL,SQL SERVER)/(MONGODB,SQLITE)
+  -DOCKER
+-FRONTEND:
+  -VUE.JS
+  -JAVASCRIPT/TYPESCRIPT
+  -TAILWIND
+-MOVILES:
+  -ANDROID STUDIO 
+---
+
+## 🌟 Proyectos Destacados
+
+### [BLOQUEX](https://github.com/GuillermoPrograma/BLOCKEX_1.0) 🛡️
+*Proyecto Grupal*
+* **Problema:** Toxicidad en redes sociales post-ruptura.
+* **Solución:** Una herramienta para mitigar interacciones dañinas y proteger el bienestar emocional.
+* **Tecnologías:** Vue.js, Node.js.
+
+### [GASTOSGO](https://github.com/Peluas9000/GastosGo) 💰
+*Proyecto Personal* 
+* **Funcionalidad:** Gestión integral de finanzas personales, registro de usuarios y generación de reportes en PDF.
+* **Tecnologías:** Android Studio, SQLite (BBDD embebida).
+
+---
+
+## 🧠 Filosofía de Desarrollo
+Aplico principios que garantizan código de calidad profesional:
+* **SOLID & Clean Code:** Código escalable y fácil de leer.
+* **Early Return:** Optimización de la lógica para evitar anidamientos innecesarios.
+* **DRY (Don't Repeat Yourself):** Modularización y eficiencia.
+* **IA First:** Uso de herramientas de IA para acelerar el desarrollo y descubrir nuevas posibilidades técnicas.
+
+---
+
+## 🌍 Idiomas y Soft Skills
+* **Idiomas:** Español (Nativo), Inglés (Profesional), Árabe (Fluido/Nativo), Francés (Básico).
+* **Skills:** Comunicación asertiva, resolución de problemas complejos, adaptabilidad al cambio constante de la industria.
+
