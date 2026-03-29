@@ -12,10 +12,12 @@ Soy un desarrollador con base en **DAM**, actualmente potenciando mis habilidade
 * **(SQL,POSTGRESQL,SQL SERVER)/(MONGODB,SQLITE)
 * **AWS
 * **DOCKER
+---
 ##FRONTEND:
 * **VUE.JS
 * **JAVASCRIPT/TYPESCRIPT
 * **TAILWIND(SCSS)
+---
 ##MOVILES:
 * **ANDROID STUDIO
 * **FLUTTER
