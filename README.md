@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ayoub BenJaddi 👋
 
-### 🚀 Full Stack Developer Trainee | Spring Boot & Vue.js Enthusiast | AI Integrator
+###  Full Stack Developer Trainee | Spring Boot & Vue.js Enthusiast | AI Integrator
 
 Soy un desarrollador con base en **DAM**, actualmente potenciando mis habilidades en el mundo real a través de mis prácticas en **Albeat S.L.** No solo escribo código; busco soluciones que impacten positivamente y me apasiona utilizar la **Inteligencia Artificial** para llevar la productividad y las implementaciones al siguiente nivel.
 
